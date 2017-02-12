@@ -12,7 +12,7 @@ After my last startup experience, I joined [Keeward Holding group](http://keewar
 
 I am currently working on several challenges ranging from Social Analytics to scaling technical infrastructure.
 
-My technical background is mainly focused around Ruby, Rails and Python.
+My technical skills are mainly focused around Ruby, Rails and Python ecosystems.
 
 Back in January 2015, with the help of dedicated community members, I started [MENA Devs](http://menadevs.com), a community initiative for developers in the MENA region.
 

@@ -14,6 +14,6 @@ I am currently working on several challenges ranging from Social Analytics to sc
 
 My technical skills are mainly focused around Ruby, Rails and Python ecosystems.
 
-Back in January 2015, with the help of dedicated community members, I started [MENA Devs](http://menadevs.com), a community initiative with the purpose of connecting Software Developers, Designers and Computer Enthusiasts in the MENA region.
+I am also a founding member of [MENA Devs](http://menadevs.com), a community initiative with the purpose of connecting Software Developers, Designers and Computer Enthusiasts in the MENA region.
 
 Contact me on: email AT cnicolaou DOT com

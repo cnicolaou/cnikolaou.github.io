@@ -12,6 +12,8 @@ I am currently working at [Keeward Holding group](http://keeward.com/the-teams/)
 
 I am currently working on several challenges ranging from Social Analytics and Big Data to scaling technical infrastructure.
 
-Back in January 2015, with the help of dedicated community members, I started [MENA Devs](http://menadevs.com), a community initiative for developers in the MENA regions.
+Back in January 2015, with the help of dedicated community members, I started [MENA Devs](http://menadevs.com), a community initiative for developers in the MENA region.
 
-To contact me: email AT cnicolaou DOT com
+I am a Greek national and currently residing in Beirut, Lebanon.
+
+Contact me on: email AT cnicolaou DOT com

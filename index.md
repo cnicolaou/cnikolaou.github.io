@@ -8,7 +8,7 @@ Hello, my name is Constantine Nicolaou.
 
 I am a software developer with experience in Tech startups.
 
-I am currently working at [Keeward Holding group](http://keeward.com/the-teams/), an innovative digital production company working across continents, cultures and languages.
+After my last startup experience, I started working at [Keeward Holding group](http://keeward.com/the-teams/), an innovative digital production company working across continents, cultures and languages.
 
 I am currently working on several challenges ranging from Social Analytics and Big Data to scaling technical infrastructure.
 

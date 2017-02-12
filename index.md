@@ -4,7 +4,7 @@ layout: default
 
 ![](https://dl.dropboxusercontent.com/u/2630783/media/cnicolaou_portrait.jpg)
 
-Hello, my name is Constantine Nicolaou.
+Hello, my name is Constantine Nicolaou, I am a Greek national who is currently residing in Beirut, Lebanon
 
 I am a software developer with experience in Tech startups.
 
@@ -15,7 +15,5 @@ I am currently working on several challenges ranging from Social Analytics to sc
 My technical skills are mainly focused around Ruby, Rails and Python ecosystems.
 
 Back in January 2015, with the help of dedicated community members, I started [MENA Devs](http://menadevs.com), a community initiative for developers in the MENA region.
-
-I am a Greek national and currently residing in Beirut, Lebanon.
 
 Contact me on: email AT cnicolaou DOT com

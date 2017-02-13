@@ -8,17 +8,17 @@ Hello, my name is Constantine Nicolaou, I am a Greek national who is currently r
 
 ### Experience
 
-I am a software developer with experience in Tech startups.
+I am a software developer with [experience in Tech startups](http://cnicolaou.github.io/resume/).
 
-After my last startup experience around business referrals, I joined [Keeward Holding group](http://keeward.com/the-teams/) in August 2016, an innovative digital production company working across continents, cultures and languages.
+After my last startup experience around business referrals, I joined [Keeward Holding group](http://keeward.com/the-teams/) in August 2016 as System Architect. Keeward is an innovative digital production company working across continents, cultures and languages.
 
-I am currently working on several challenges ranging from Social Analytics to scaling technical infrastructure.
+I am currently working on projects related to customer analytics and scaling technical infrastructure.
 
 ### Skills
 
 Learning customer discovery has changed my professional life. I highly recommend Steve Blank's book [The Startup Owner's Manual](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) to anyone who is on the path of starting a new company.
 
-My technical skills are mainly focused around Ruby, Rails and Python ecosystems.
+My technical skills are focused around Ruby, Rails and Python ecosystems.
 
 ### Activities
 

@@ -4,7 +4,7 @@ layout: default
 
 ![](https://dl.dropboxusercontent.com/u/2630783/media/cnicolaou_portrait.jpg)
 
-Hello, my name is Constantine Nicolaou. I am a Greek national who is currently residing in Beirut, Lebanon
+Hello, my name is Constantine Nicolaou. I am a Greek national currently residing in Beirut, Lebanon
 
 ### Experience
 

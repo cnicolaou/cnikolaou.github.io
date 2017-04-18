@@ -4,7 +4,7 @@ layout: default
 
 ![](/assets/images/cnicolaou_portrait.jpg)
 
-Hello, my name is Constantine Nicolaou. I am a Greek national currently residing in Beirut, Lebanon
+Hello, my name is Constantine Nicolaou. I am a Greek national currently residing in Beirut, Lebanon.
 
 ### Experience
 
@@ -27,4 +27,4 @@ What started as a Slack group quickly evolved to an active community lead by [de
 
 ### Contact me
 
-email AT cnicolaou DOT com
+Email: email @ cnicolaou DOT com

@@ -12,7 +12,7 @@ I am a Software Architect & Technical Lead with [experience in Tech Startups](ht
 
 After my last startup experience around business referrals, I joined [Keeward Holding Group](http://keeward.com/the-teams/) in August 2016 as System Architect.
 
-I am currently working on projects related to customer analytics and scaling technical infrastructure.
+I am currently working on projects related to social analytics, machine learning and scaling technical infrastructures.
 
 ### Skills
 

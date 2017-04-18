@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](/assets/css/cnicolaou_portrait.jpg)
+![](/assets/images/cnicolaou_portrait.jpg)
 
 Hello, my name is Constantine Nicolaou. I am a Greek national currently residing in Beirut, Lebanon
 

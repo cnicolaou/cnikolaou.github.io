@@ -22,8 +22,8 @@ My technical skills are focused around Ruby, Rails and Python ecosystems.
 
 ### Activities
 
-Back in January 2015, I started [MENA Devs](http://menadevs.com), an initiative with the purpose of connecting software developers, designers and computer enthusiasts in the MENA region.
-What started as a Slack group quickly evolved to an active community lead by [dedicated members](https://github.com/mena-devs).
+Back in January 2015, I started [MENA devs](http://menadevs.com), an initiative with the purpose of connecting software developers, designers and computer enthusiasts in the MENA region.
+What started as a Slack group quickly evolved to an active community, reaching more than 250 members, lead by [dedicated members](https://github.com/mena-devs).
 
 ### Contact me
 

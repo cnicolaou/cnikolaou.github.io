@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](https://dl.dropboxusercontent.com/u/2630783/media/cnicolaou_portrait.jpg)
+![](https://www.dropbox.com/s/li5c5k3d7jzt7st/cnicolaou_portrait.jpg?dl=0)
 
 Hello, my name is Constantine Nicolaou. I am a Greek national currently residing in Beirut, Lebanon
 
@@ -10,7 +10,7 @@ Hello, my name is Constantine Nicolaou. I am a Greek national currently residing
 
 I am a Software Architect & Technical Lead with [experience in Tech Startups](http://cnicolaou.github.io/resume/).
 
-After my last startup experience around business referrals, I joined [Keeward Holding group](http://keeward.com/the-teams/) in August 2016 as System Architect.
+After my last startup experience around business referrals, I joined [Keeward Holding Group](http://keeward.com/the-teams/) in August 2016 as System Architect.
 
 I am currently working on projects related to customer analytics and scaling technical infrastructure.
 

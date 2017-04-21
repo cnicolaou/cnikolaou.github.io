@@ -4,21 +4,23 @@ layout: default
 
 ![](/assets/images/cnicolaou_portrait.jpg)
 
-Hello, my name is Constantine Nicolaou. I am a Greek national currently residing in Beirut, Lebanon.
+Hello, my name is Constantine Nicolaou. I am Greek/Lebanese dual national living in Beirut, Lebanon.
 
 ### Experience
 
-I am a Software Architect & Technical Lead with [experience in Tech Startups](http://cnicolaou.github.io/resume/).
+I am a Software Developer with [+6 years in Tech Startups](http://cnicolaou.github.io/resume/).
 
 After my last startup experience around business referrals, I joined [Keeward Holding Group](http://keeward.com/the-teams/) in August 2016 as System Architect.
 
-I am currently working on projects related to social analytics, machine learning and scaling technical infrastructures.
+I am currently working on projects related to user/social analytics, machine learning and scaling technical infrastructures.
 
 ### Skills
 
 Learning and practicing customer discovery has changed my professional life. I highly recommend Steve Blank's book [The Startup Owner's Manual](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) to anyone who is on the path of starting a new company.
 
-My technical skills are focused around Ruby, Rails and Python ecosystems.
+My experience ranges from designing systems and infrastructure to production deployment.
+
+My technical skills are focused around Ruby and Python ecosystems. I also have experience building iOS mobile apps and web interfaces.
 
 ### Activities
 

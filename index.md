@@ -5,7 +5,8 @@ layout: default
 ![](/assets/images/cnicolaou_portrait.jpg)
 
 Hello, my name is Constantine Nicolaou.
-I am Greek/Lebanese dual national living in Beirut, Lebanon.
+
+I am Greek/Lebanese residing in Beirut, Lebanon.
 
 ### Experience
 

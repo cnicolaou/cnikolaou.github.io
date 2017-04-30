@@ -8,11 +8,11 @@ Hello, my name is Constantine Nicolaou. I am Greek/Lebanese dual national living
 
 ### Experience
 
-I am a Software Developer with [+6 years in Tech Startups](http://cnicolaou.github.io/resume/).
+I am a Software Developer with [+15 years experience in industry and Tech Startups](http://cnicolaou.github.io/resume/).
 
-After my last startup experience around business referrals, I joined [Keeward Holding Group](http://keeward.com/the-teams/) in August 2016 as System Architect.
+I currently work for [Keeward Holding Group](http://keeward.com/the-teams/) as System Architect.
 
-I am currently working on projects related to user/social analytics, machine learning and scaling technical infrastructures.
+The projects I am involved with are related to user/social analytics, machine learning and scaling technical infrastructures.
 
 ### Skills
 

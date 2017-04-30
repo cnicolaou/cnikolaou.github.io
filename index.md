@@ -4,15 +4,14 @@ layout: default
 
 ![](/assets/images/cnicolaou_portrait.jpg)
 
-Hello, my name is Constantine Nicolaou. I am Greek/Lebanese dual national living in Beirut, Lebanon.
+Hello, my name is Constantine Nicolaou.
+I am Greek/Lebanese dual national living in Beirut, Lebanon.
 
 ### Experience
 
 I am a Software Developer with [+15 years experience in industry and Tech Startups](http://cnicolaou.github.io/resume/).
 
-I currently work for [Keeward Holding Group](http://keeward.com/the-teams/) as System Architect.
-
-The projects I am involved with are related to user/social analytics, machine learning and scaling technical infrastructures.
+I work for [Keeward Holding Group](http://keeward.com/the-teams/) as System Architect on projects related to Big Data, User/Social Analytics, Machine Learning and scaling technical infrastructures.
 
 ### Skills
 

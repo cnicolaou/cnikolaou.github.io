@@ -4,7 +4,7 @@ layout: default
 
 ![](/assets/images/cnicolaou_portrait.jpg)
 
-Hello, my name is Constantine Nicolaou, I and Greek / Lebanese and live in Beirut, Lebanon.
+Hello, my name is Constantine Nicolaou. I am Greek - Lebanese and live in Beirut, Lebanon.
 
 ### Experience
 

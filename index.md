@@ -10,15 +10,15 @@ I am Greek/Lebanese residing in Beirut, Lebanon.
 
 ### Experience
 
-I am a Software Developer with [+15 years experience in industry and Tech Startups](http://cnicolaou.github.io/resume/).
+I have [+15 years experience in industry and Tech Startups](http://cnicolaou.github.io/resume/).
 
-I work for [Keeward Holding Group](http://keeward.com/the-teams/) as System Architect on projects related to Big Data, User/Social Analytics, Machine Learning and scaling technical infrastructures.
+I work for [Keeward Holding Group](http://keeward.com/the-teams/) as Solutions Architect on projects related to Big Data, User/Social Analytics, Machine Learning and scaling technical infrastructures.
 
 ### Skills
 
 Learning and practicing customer discovery has changed my professional life. I highly recommend Steve Blank's book [The Startup Owner's Manual](https://www.amazon.com/Startup-Owners-Manual-Step-Step/dp/0984999302) to anyone who is on the path of starting a new company.
 
-My experience ranges from designing architectures, to development and production deployment.
+My experience ranges from designing architectures for technical solutions, to development and deployment to production.
 
 My technical skills are focused around Ruby, Rails and Python ecosystems.
 
@@ -33,4 +33,4 @@ Email: email @ cnicolaou DOT com
 
 ### Schedule a meeting
 
-Calendly: [https://calendly.com/cnicolaou/60min/](https://calendly.com/cnicolaou/60min/)
+I am open to discuss ideas, partnerships, coaching and mentoring. You can book a time slot using the following Calendly link:  [LINK](https://calendly.com/cnicolaou/60min/)

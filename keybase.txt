@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/cnicolaou
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cnicolaou.com
+  * I am cnicolaou (https://keybase.io/cnicolaou) on keybase.
+  * I have a public key ASBFP7NXhX9M-4u12JfBQUwN5peg3tR5O8uW1P_mWW5F5Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120453fb357857f4cfb8bb5d897c1414c0de697a0ded4793bcb96d4ffe6596e45e50a",
+      "host": "keybase.io",
+      "kid": "0120453fb357857f4cfb8bb5d897c1414c0de697a0ded4793bcb96d4ffe6596e45e50a",
+      "uid": "72ef42885ec623e7f784d70406baee19",
+      "username": "cnicolaou"
+    },
+    "merkle_root": {
+      "ctime": 1509525236,
+      "hash": "347179fbb75e7dc9a2f3a8d8ed506077005542e3545a3ab0e56acaee1110117f717b54be66beb3f43fc57ec13199f75d8b439bb384bb6da874d917790e0c2056",
+      "hash_meta": "9200d07dfa07ff98425a30823729f11b1a66f6b0befccc2de6d17b8ce5466980",
+      "seqno": 1653934
+    },
+    "service": {
+      "hostname": "cnicolaou.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509526534,
+  "expire_in": 504576000,
+  "prev": "ed18a308ca736c503ab9d1da84d76cf8074a8d2389385cbbc746cd3d5172e388",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgRT+zV4V/TPuLtdiXwUFMDeaXoN7UeTvLltT/5lluReUKp3BheWxvYWTFA0Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDUzZmIzNTc4NTdmNGNmYjhiYjVkODk3YzE0MTRjMGRlNjk3YTBkZWQ0NzkzYmNiOTZkNGZmZTY1OTZlNDVlNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDUzZmIzNTc4NTdmNGNmYjhiYjVkODk3YzE0MTRjMGRlNjk3YTBkZWQ0NzkzYmNiOTZkNGZmZTY1OTZlNDVlNTBhIiwidWlkIjoiNzJlZjQyODg1ZWM2MjNlN2Y3ODRkNzA0MDZiYWVlMTkiLCJ1c2VybmFtZSI6ImNuaWNvbGFvdSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwOTUyNTIzNiwiaGFzaCI6IjM0NzE3OWZiYjc1ZTdkYzlhMmYzYThkOGVkNTA2MDc3MDA1NTQyZTM1NDVhM2FiMGU1NmFjYWVlMTExMDExN2Y3MTdiNTRiZTY2YmViM2Y0M2ZjNTdlYzEzMTk5Zjc1ZDhiNDM5YmIzODRiYjZkYTg3NGQ5MTc3OTBlMGMyMDU2IiwiaGFzaF9tZXRhIjoiOTIwMGQwN2RmYTA3ZmY5ODQyNWEzMDgyMzcyOWYxMWIxYTY2ZjZiMGJlZmNjYzJkZTZkMTdiOGNlNTQ2Njk4MCIsInNlcW5vIjoxNjUzOTM0fSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNuaWNvbGFvdS5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM0In0sImN0aW1lIjoxNTA5NTI2NTM0LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImVkMThhMzA4Y2E3MzZjNTAzYWI5ZDFkYTg0ZDc2Y2Y4MDc0YThkMjM4OTM4NWNiYmM3NDZjZDNkNTE3MmUzODgiLCJzZXFubyI6MjUsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAKY6b1FulqdYhknrMUvcLtmhtq5bVc8KLxHIqpBLmHDucwUKF0aREaBSWbg5TpS6ig2r1eCncSNJrCwnXOmcgDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAd1jZC59qsIa5Nc4TG/+YmtOFkfqFV6Uxuk0mR9vw/Go3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cnicolaou
+
+==================================================================

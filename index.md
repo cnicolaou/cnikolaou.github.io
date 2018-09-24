@@ -20,7 +20,7 @@ Learning and practicing customer discovery and design thinking has changed my pr
 
 *Technical experience*
 
-I've previously designed and built cloud service models including Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service for several startups, SMEs and mid-size companies.
+I've designed and built cloud service models including Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service for several startups, SMEs and mid-size companies.
 
 *Cloud & SaaS Platforms:*
 

@@ -10,13 +10,13 @@ layout: default
 
 A technical leader with architectural skills and experience in industry and Tech Startups.
 
-Solution Architect focusing on designing and implementing cloud-based solutions to scale operations and infrastructure.
+Cloud Solution Architect focusing on designing and implementing cloud-based solutions to scale operations and infrastructure.
 
 ### Skills
 
 *Startup experience*
 
-Learning and practicing customer discovery and design thinking has changed my professional life. I highly recommend Steve Blank's book [The Startup Owner's Manual](https://www.bookwitty.com/product/97809849993090000000?tap_a=30133-3fb7e6&tap_s=223446-11c47b) to anyone who is on the path of starting a new company.
+Learning and practicing customer discovery and design thinking has changed my professional life. I highly recommend Steve Blank's book [The Startup Owner's Manual](https://amzn.to/2NDX5yU) to anyone who is on the path of starting a new company.
 
 *Technical experience*
 
@@ -24,7 +24,7 @@ I've previously designed and built cloud service models including Infrastructure
 
 *Cloud & SaaS Platforms:*
 
-Amazon, Google Web Services and Alibaba Cloud
+Amazon AWS and Google Cloud
 
 *Architectural Experience:*
 
@@ -40,9 +40,9 @@ What started as a Slack group quickly evolved to an active community, reaching m
 
 ### My reading list
 
-- [So Good They Can't Ignore You](https://www.bookwitty.com/product/97803494158640000000?tap_a=30133-3fb7e6&tap_s=223446-11c47b)
-- [The Ego Is the Enemy](https://www.bookwitty.com/book/the-ego-is-the-enemy/97815918478160000000?content_type=book&tap_a=30133-3fb7e6&tap_s=223446-11c47b)
-- [The Subtle Art of Not Giving a F*ck](https://www.bookwitty.com/product/97800624577140000000?tap_a=30133-3fb7e6&tap_s=223446-11c47b)
+- [So Good They Can't Ignore You](https://amzn.to/2zqoL1s)
+- [Ego Is the Enemy](https://amzn.to/2Dr39WB)
+- [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://amzn.to/2Nzep7P)
 
 ### Contact
 

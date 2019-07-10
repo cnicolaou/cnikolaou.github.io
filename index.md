@@ -26,7 +26,7 @@ I've designed and built cloud service models including Infrastructure-as-a-Servi
 
 Amazon AWS and Google Cloud
 
-*Architectural Experience:*
+*Programming Experience:*
 
 Programming Languages: Python, Ruby, GoLang and PHP
 
@@ -46,8 +46,6 @@ What started as a Slack group quickly evolved to an active community, reaching m
 
 ### Contact
 
-Email: email @ cnicolaou DOT com
+Email: email @ cnikolaou DOT com
 
 I am open to discussing ideas, partnerships, coaching and mentoring.
-
-You can book a time slot using the following Calendly link:  [LINK](https://calendly.com/cnicolaou/60min/)

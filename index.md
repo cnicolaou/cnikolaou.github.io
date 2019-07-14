@@ -4,13 +4,13 @@ layout: default
 
 ![](/assets/images/cnicolaou_portrait.jpg)
 
-Γεια σασ and welcome to my personal page.
+Γεια σασ
 
 ### Experience
 
 A technical leader with architectural skills and experience in industry and Tech Startups.
 
-Cloud Solution Architect focusing on designing and implementing cloud-based solutions to scale operations and infrastructure.
+Solutions Architect focusing on designing and implementing cloud-based solutions to scale operations and infrastructure.
 
 ### Skills
 
@@ -38,7 +38,7 @@ Back in January 2015, I started [MENA devs](http://menadevs.com), an initiative 
 
 What started as a Slack group quickly evolved to an active community, reaching more than 300 members and lead by [dedicated members](https://github.com/mena-devs).
 
-### My reading list
+### My current reading list
 
 - [So Good They Can't Ignore You](https://amzn.to/2zqoL1s)
 - [Ego Is the Enemy](https://amzn.to/2Dr39WB)

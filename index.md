@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](/assets/images/cnicolaou_portrait.jpg)
+![](/assets/images/cnikolaou_portrait.jpg)
 
 Γεια σασ
 
@@ -10,7 +10,7 @@ layout: default
 
 A technical leader with architectural skills and experience in industry and Tech Startups.
 
-Solutions Architect focusing on designing and implementing cloud-based solutions to scale operations and infrastructure.
+Solutions Architect at Booking.com, focusing on enabling Connectivity Partners to resolve availability and reservation issues, scale operations and implement industry standards.
 
 ### Skills
 
@@ -34,12 +34,14 @@ Frameworks: Ruby on Rails, Django, Flask and Symphony
 
 ### Community building
 
-Back in January 2015, I started [MENA devs](http://menadevs.com), an initiative with the purpose of connecting software developers, designers and computer enthusiasts in the MENA region.
+Back in January 2015, I started [MENA devs](https://menadevs.com), an initiative with the purpose of connecting software developers, designers and computer enthusiasts in the MENA region.
 
 What started as a Slack group quickly evolved to an active community, reaching more than 300 members and lead by [dedicated members](https://github.com/mena-devs).
 
-### My current reading list
+### Inspiring reading list
 
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
+- [Architecting for Scale: High Availability for Your Growing Applications](https://www.amazon.com/Architecting-Scale-Lee-Atchison/dp/1491943394)
 - [So Good They Can't Ignore You](https://amzn.to/2zqoL1s)
 - [Ego Is the Enemy](https://amzn.to/2Dr39WB)
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://amzn.to/2Nzep7P)

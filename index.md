@@ -38,16 +38,23 @@ Back in January 2015, I started [MENA devs](https://menadevs.com), an initiative
 
 What started as a Slack group quickly evolved to an active community, reaching more than 300 members and lead by [dedicated members](https://github.com/mena-devs).
 
-### Inspiring reading list
+### Inspiring Books
+
+#### Technical
 
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 - [Architecting for Scale: High Availability for Your Growing Applications](https://www.amazon.com/Architecting-Scale-Lee-Atchison/dp/1491943394)
+
+#### Business, career and professional self-help
+
 - [So Good They Can't Ignore You](https://amzn.to/2zqoL1s)
 - [Ego Is the Enemy](https://amzn.to/2Dr39WB)
 - [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://amzn.to/2Nzep7P)
 
-### Contact
+### Contact details
 
 Email: email @ cnikolaou DOT com
+
+### Contact context
 
 I am open to discussing ideas, partnerships, coaching and mentoring.
